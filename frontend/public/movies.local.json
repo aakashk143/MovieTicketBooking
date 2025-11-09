@@ -1,0 +1,15 @@
+[
+  {"id":1,"title":"Pathaan","genre":"Action","duration_mins":146,"language":"Hindi","rating":"U/A","poster_url":"/posters/pathaan.jpg","description":"An agent returns to stop a bio-weapon plot."},
+  {"id":2,"title":"Baahubali: The Beginning","genre":"Action","duration_mins":159,"language":"Telugu","rating":"U/A","poster_url":"/posters/baahubali.jpg","description":"A young man discovers his legacy and a kingdom's fate."},
+  {"id":3,"title":"Kabir Singh","genre":"Romance","duration_mins":173,"language":"Hindi","rating":"A","poster_url":"/posters/kabir_singh.jpg","description":"A brilliant surgeon spirals after heartbreak and seeks redemption."},
+  {"id":4,"title":"Yeh Jawaani Hai Deewani","genre":"Romance","duration_mins":160,"language":"Hindi","rating":"U/A","poster_url":"/posters/yeh_jawaani_hai_deewani.jpg","description":"Friends, love, and life choices from youth to adulthood."},
+  {"id":5,"title":"Inception","genre":"Thriller","duration_mins":148,"language":"English","rating":"PG-13","poster_url":"/posters/inception.jpg","description":"A thief who steals corporate secrets through dream-sharing tech."},
+  {"id":6,"title":"Kaabil","genre":"Thriller","duration_mins":139,"language":"Hindi","rating":"U/A","poster_url":"/posters/kaabil.jpg","description":"A blind man seeks justice after a tragic crime."},
+  {"id":7,"title":"Animal","genre":"Action","duration_mins":201,"language":"Hindi","rating":"A","poster_url":"/posters/animal.jpg","description":"A violent saga of a father-son bond and vengeance."},
+  {"id":8,"title":"Chhaava","genre":"Action","duration_mins":150,"language":"Hindi","rating":"U/A","poster_url":"/posters/chhaava.jpg","description":"Epic tale set in the Maratha era."},
+  {"id":9,"title":"Raanjhanaa","genre":"Romance","duration_mins":140,"language":"Hindi","rating":"U/A","poster_url":"/posters/raanjhanaa.jpg","description":"A passionate lover's journey through heartbreak and hope."},
+  {"id":10,"title":"Saiyaara","genre":"Romance","duration_mins":130,"language":"Hindi","rating":"U/A","poster_url":"/posters/saiyaara.jpg","description":"A heartfelt love story."},
+  {"id":11,"title":"Kahaani 2","genre":"Thriller","duration_mins":129,"language":"Hindi","rating":"U/A","poster_url":"/posters/kahaani2.jpg","description":"A woman entangled in a web of secrets and pursuit."},
+  {"id":12,"title":"Munjya","genre":"Thriller","duration_mins":120,"language":"Hindi","rating":"U/A","poster_url":"/posters/munjya.jpg","description":"A horror-comedy about folklore coming to life."}
+]
+
